@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@shufo/prettier-plugin-blade": "^1.13.4",
+        "axios": "^1.6.1",
+        "laravel-vite-plugin": "^1.0.0",
+        "prettier": "^2.8.8",
+        "vite": "^5.0.0"
+    }
+}
